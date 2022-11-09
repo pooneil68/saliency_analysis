@@ -1,17 +1,5 @@
 # Saliency analysis
-Codes used for analysis conducted in the study: Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images", biorXiv.
-
-Versions of softwares:
-* Matlab R2022a
-* GBVS toolbox for MATLAB (Harel et al., 2007; http://www.klab.caltech.edu/~harel/share/gbvs.php)
-* fdr_bh.m (David Groppe (2022). fdr_bh (https://www.mathworks.com/matlabcentral/fileexchange/27418-fdr_bh), MATLAB Central File Exchange.)
-* computeCohen_d.m (Ruggero G. Bettinardi (2022). computeCohen_d(x1, x2, varargin) (https://www.mathworks.com/matlabcentral/fileexchange/62957-computecohen_d-x1-x2-varargin), MATLAB Central File Exchange.)
-* R ver 4.2.1
-* RStudio 2022.07.1
-* R package lme4 (Bates et al., 2015)
-* R package LmerTest (Kuznetsova et al., 2017)
-
-All of the essential figures and statistics in this study were created by runnning these codes.
+Codes used for analysis conducted in the study: Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images", biorXiv. All of the essential figures and statistics in this study were created by runnning these codes.
 
 Because of ethical prohibitions, all data reported in this study cannot be deposited in a public repository. For this reason, dummy data are generated within the codes to show how to run the codes. Instead, you can use these codes to analyze your data.
 
@@ -20,6 +8,16 @@ The images used in this study were selected from the International Affective Pic
 For further information, contact the lead contact of the study, Masatoshi Yoshida, Ph.D., myoshi@chain.hokudai.ac.jp.
 
 These codes are released under the terms of the MIT license.
+
+# Versions of softwares
+* Matlab R2022a
+* GBVS toolbox for MATLAB (Harel et al., 2007; http://www.klab.caltech.edu/~harel/share/gbvs.php)
+* fdr_bh.m (David Groppe (2022). fdr_bh (https://www.mathworks.com/matlabcentral/fileexchange/27418-fdr_bh), MATLAB Central File Exchange.)
+* computeCohen_d.m (Ruggero G. Bettinardi (2022). computeCohen_d(x1, x2, varargin) (https://www.mathworks.com/matlabcentral/fileexchange/62957-computecohen_d-x1-x2-varargin), MATLAB Central File Exchange.)
+* R ver 4.2.1
+* RStudio 2022.07.1
+* R package lme4 (Bates et al., 2015)
+* R package LmerTest (Kuznetsova et al., 2017)
 
 # How to run the codes
 
