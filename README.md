@@ -1,10 +1,5 @@
 # saliency_analysis
-Codes for Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images"
-
-------------------
-# Instructions
-
-This repository shares the codes used for analysis conducted in the study: Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images", biorXiv.
+Codes used for analysis conducted in the study: Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images", biorXiv.
 
 Versions of softwares:
 * Matlab R2022a
@@ -26,7 +21,6 @@ For further information, contact the lead contact of the study, Masatoshi Yoshid
 
 These codes are released under the terms of the MIT license.
 
-------------------
 # How to run the codes
 
 1) read this file.
