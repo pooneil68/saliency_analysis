@@ -30,9 +30,9 @@ These codes are released under the terms of the MIT license.
 
 If you wish to analyze your data, prepare data files according to the following instructions:
 1) Prepare the data files listed below. 
-  * subject_label12.csv (Information about subjects)
-  * FixationSummaryAll1231.mat (saccade data)
-  * emsdata0427d.mat (cognitive scores)
+ * subject_label12.csv (Information about subjects)
+ * FixationSummaryAll1231.mat (saccade data)
+ * emsdata0427d.mat (cognitive scores)
 2) Prepare your images in "images" folder. The codes assume JPEG color images with 512*640 pixels.
 3) Edit create_saliency_data0901mod.m to add the file names of your images
 4) Run runit_yourdata.m, then you will get all analysis and plots.
