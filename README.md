@@ -1,4 +1,4 @@
-# saliency_analysis
+# Saliency analysis
 Codes used for analysis conducted in the study: Yoshida et al (2022) "Aberrant visual salience in participants with schizophrenia during free-viewing of natural images", biorXiv.
 
 Versions of softwares:
