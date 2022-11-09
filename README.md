@@ -20,7 +20,7 @@ These codes are released under the terms of the MIT license.
 
 # How to run the codes
 
-1) read this file.
+1) Read this file.
 2) Unzip the file to make a folder.
 3) Prepare GBVS toolbox for matlab and install it in the folder.
 4) Put codes written by others in the folder: fdr_bh.m and computeCohen_d.m.
