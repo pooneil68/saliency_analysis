@@ -25,7 +25,7 @@ These codes are released under the terms of the MIT license.
 3) Prepare GBVS toolbox for matlab and install it in the folder.
 4) Put codes written by others in the folder: fdr_bh.m and computeCohen_d.m.
 5) Run runit.m, then you will get all analysis and plots for dummy data.
-6) For analysis with Rstudio, run glm20220126allb.Rmd and glm20220126amb. This has to be done after running runit.m, which generates data files for R.
+6) For analysis with Rstudio, run glm20220126allb.Rmd and glm20220126amb.Rmd. This has to be done after running runit.m, which generates data files for R.
 
 If you wish to analyze your data, prepare data files according to the following instructions:
 1) Prepare the data files listed below. 
